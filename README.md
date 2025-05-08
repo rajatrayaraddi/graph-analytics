@@ -1,5 +1,5 @@
 # Graph Analytics Using R
-This repository contains the code, workspace, and report for a graph-analytics assignment completed for the graduate course **CSCI 6444 — Big Data & Analytics** at The George Washington University.
+This repository contains the code, workspace, and report for a graph-analytics assignment completed for the graduate course **CSCI 6444: Big Data & Analytics** at The George Washington University.
 
 ---
 
